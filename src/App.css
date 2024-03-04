@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+* {
+  font-family: "Rubik", sans-serif;
+}
+@font-face {
+  font-family: "Autograph";
+  src: url("./fonts/Autograph.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Ballpoints";
+  src: url("./fonts/Ballpoints.ttf") format("truetype");
+}
+@font-face {
+  font-family: "BallpointsItalic";
+  src: url("./fonts/BallpointsItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "BallpointsThin";
+  src: url("./fonts/BallpointsThin.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Fashioniqa";
+  src: url("./fonts/Fashioniqa.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FloritaSignature";
+  src: url("./fonts/FloritaSignature.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SafiarSignature";
+  src: url("./fonts/SafiarSignature.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Signaturae_1";
+  src: url("./fonts/Signaturae_1.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Signaturae_2";
+  src: url("./fonts/Signaturae_2.otf") format("opentype");
+}
+@font-face {
+  font-family: "Signspaintedscript";
+  src: url("./fonts/Signspaintedscript.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SweetyLoversPersonalUse";
+  src: url("./fonts/SweetyLoversPersonalUse.ttf") format("truetype");
+}
+@font-face {
+  font-family: "TheExcited";
+  src: url("./fonts/TheExcited.ttf") format("truetype");
+}
